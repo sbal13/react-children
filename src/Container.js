@@ -16,7 +16,7 @@ function Container(props){
 
 Container.defaultProps = {
   textPosition: "", // possible values: left, right, center
-  direction: "horizontal", // possible values: verical, horizontal
+  direction: "horizontal", // possible values: vertical, horizontal
   contentPosition: "center" // possible values: left, right, center
 }
 
